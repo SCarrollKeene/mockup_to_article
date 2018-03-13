@@ -1,0 +1,25 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+
+* What new skills have you learned?
+
+* What has been easy?
+
+* What has been difficult?
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+As far as new skills, I've picked up on the figure/figcaption elements as I have never used those before or seen them
+in my personal experience or past programming classes related to this subject in the past. The concept of "trees"/parent-child
+relationships was never taught to me in HTML, but I learned about it in another language. Seeing it in use with HTML helps make a ton
+of sense as far as grouping particular elements together along with their child tags and such.
+
+This wasn't too difficult as I did have the background knowledge coming into this.
+
+These first few lessons have been easy, but have helped a lot in refreshing my knowledge as I haven't used html in awhile.
+
+As far as problem solving goes, I've used the source material and outside research, like the MDN website on any concepts that
+I need to go back over or haven't quite grasped my first time through. There's always our group discussions to look back on as well
